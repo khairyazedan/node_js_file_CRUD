@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "AeroFlex Running Shoes",
+    "desc": "Lightweight breathable mesh sneakers designed for all-day comfort and performance.",
+    "price": 89.99
+  },
+  {
+    "id": "2",
+    "name": "PulseWave Bluetooth Earbuds",
+    "desc": "True wireless earbuds with active noise cancellation and 30-hour battery life.",
+    "price": 129.99
+  },
+  {
+    "id": "3",
+    "name": "AeroFlex Running Shoes",
+    "desc": "Lightweight breathable mesh sneakers designed for all-day comfort and performance.",
+    "price": 89.99
+  },
+  {
+    "id": "4",
+    "name": "BrewMaster Stainless Steel Kettle",
+    "desc": "1.7L electric kettle with rapid boil technology and auto shut-off.",
+    "price": 39.5
+  },
+  {
+    "id": "5",
+    "name": "NimbusCloud Memory Foam Pillow",
+    "desc": "Ergonomic contour pillow that relieves neck pain and improves sleep posture.",
+    "price": 34.99
+  },
+  {
+    "id": "6",
+    "name": "TitanGrip Adjustable Dumbbell Set",
+    "desc": "Space-saving dumbbells with quick-lock weight adjustment from 5 to 25 lbs.",
+    "price": 149
+  },
+  {
+    "id": "7",
+    "name": "SolarBeam Portable Charger",
+    "desc": "20000mAh power bank with solar panel and dual USB fast-charging ports.",
+    "price": 44.99
+  },
+  {
+    "id": "8",
+    "name": "VelvetTouch Yoga Mat",
+    "desc": "Extra-thick non-slip mat made from eco-friendly TPE material.",
+    "price": 29.99
+  },
+  {
+    "id": "9",
+    "name": "CrispView 4K Webcam",
+    "desc": "Ultra HD webcam with auto-focus and built-in noise-cancelling microphone.",
+    "price": 69.99
+  }
+]
